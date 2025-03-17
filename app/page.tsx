@@ -16,12 +16,12 @@ export default function Home() {
        Op elke hub werken ze aan iets anders in Tilburg waar ik heb stage gelopen doen ze bijvoorbeeld: Online marketing, webshops en applicaties, merkpostionering, data integraties en content creatie.
      <br/>
      <br/>
-      Waar zitten de hubs van Happy Horizon:
+      <span className="text-xl font-bold">Waar zitten de hubs van Happy Horizon</span>
      <br/>
       happy Horizon heeft zeven hubs en ze zijn verspreid door heel Nederland de steden van de hubs: Tilburg, Eindhoven, Utrecht, Nijmegen, Amsterdam, Arnhem en Den haag.
       <br/>
       <br/> 
-      Hoe is het bedrijf ontstaan:
+      <span className="text-xl font-bold">Hoe is het bedrijf ontstaan</span>
       <br/>
       Het bedrijf is ontstaan uit verschillende soorten labels die zijn samengevoegd tot een bedrijf en dat zijn labels zoals deze: Happy idiots, happy cactus, Happy geeks, Happy en Healthy, PauwR, flashpoint, Digimonks, Evoworks, WWav, Nochi, Winnrs, Jelba, WeBBer en Experius 
       <br/>
@@ -29,9 +29,9 @@ export default function Home() {
       zoals je kan zien ben ik een website aan het maken. dat is moeilijk aan het begin maar ik denk dat als ik het snap dat het leuk en makkelijk is. 
       <br/>
       <br/>
-      welke tools ik heb gebruikt en waarvoor ze nodig zijn.
+      <span className="text-xl font-bold">Welke tools ik heb gebruikt en waarvoor ze nodig zijn</span>
       <br/>
-      ik heb verschillende tools gebruikt om deze website te maken zoals next.js dat is een website met informatie en uitleg over een website maken dan heb je ook nog visual studio code van daar uit doe je je tekst en foto's programeren in de website en je hebt ook nog terminal nodig om alles te kunnen programeren.
+      Ik heb verschillende tools gebruikt om deze website te maken zoals next.js dat is een website met informatie en uitleg over een website maken dan heb je ook nog visual studio code van daar uit doe je je tekst en foto's programeren in de website en je hebt ook nog terminal nodig om alles te kunnen programeren.
       <Link href="/cees">
       <Image
       src={Tilburg}
