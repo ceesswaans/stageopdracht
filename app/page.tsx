@@ -6,7 +6,7 @@ import happyhorizonbinnen from '../public/happy horizon binnen.webp'
 import pauwr from '../public/pauwr.jpg'
 import website from '../public/website.png'
 import visualstudiocode from '../public/ visual studio code.jpg'
-
+import houdoe from '../public/houdoe.jpg'
 export default function Home() {
  
   return (
@@ -64,12 +64,20 @@ export default function Home() {
       <span className="text-xl font-bold">Welke tools ik heb gebruikt en waarvoor ze nodig zijn?</span>
       <br/>
       Ik heb verschillende tools gebruikt om deze website te maken zoals: next.js dat is een website met informatie en uitleg, over een website maken dan heb je ook nog visual studio code van daar uit doe je je tekst en foto's programeren in de website, en je hebt ook nog terminal nodig om alles te kunnen programeren.
-      <Image
+      <br/>
+      <br/>
+     <Image
       src={visualstudiocode}
       alt="visual studio code"
       width={600}
       />
+      dit was mijn uitleg en info over mijn stage opdracht bij Happy Horizon Tilburg.
       
+      <Image
+      src={houdoe}
+      alt="houdoe"
+      width={600}
+      />
       
       
       </main>
